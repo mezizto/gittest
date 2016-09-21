@@ -11,6 +11,8 @@ echo "<!DOCTYPE html>
 <br><br><br><span style=\"font-size: 32px; color: #333; font-family: Verdana, Arial;\">Страница для проверки работы Git'a</span>
 <h1>Редактирование файла произошлооо!</h1>
 <h1>Редактирование файла произошлооо! 2</h1>
+
+<h1>Редактирование файла произошлооо! 3</h1>
 </center>
 </body>
 </html>";
