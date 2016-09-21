@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dc9ce8fb-eac5-4ce7-b500-9bbde73980fa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="gittest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -173,12 +172,12 @@
       <option name="presentableId" value="Default" />
       <updated>1474499668577</updated>
       <workItem from="1474499669875" duration="738000" />
-      <workItem from="1474498692435" duration="386000" />
+      <workItem from="1474498692435" duration="495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1124000" />
+    <option name="totallyTimeSpent" value="1233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
