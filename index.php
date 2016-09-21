@@ -9,7 +9,9 @@
 <br><br><br><span style="font-size: 32px; color: #333; font-family: Verdana, Arial;">Страница для проверки работы Git'a</span>
 <p>234</p>
     <p>И сново изменения на мастере</p>
-    <p>И сново изменения на мастере - 2</p>
+
+<p style="background-color: red">234</p>
+    <h1>пришли изменения с ветки new_styles</h1>
 </center>
 </body>
 </html>
